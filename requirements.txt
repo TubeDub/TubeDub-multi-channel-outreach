@@ -1,0 +1,15 @@
+python-telegram-bot[all]
+python-dotenv
+aiosqlite
+httpx
+pydantic
+pydantic-settings
+telethon>=1.36.0
+cryptg
+instagrapi>=2.1.0
+fbchat
+pyaileys
+pywhatkit
+pytest
+pytest-asyncio
+aiosmtplib
